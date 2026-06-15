@@ -169,8 +169,8 @@ html[data-theme="dark"] footer p { color: rgba(241, 236, 227, 0.4); }
 .stat-label { font-size: 0.7rem; color: var(--muted); font-weight: 500; letter-spacing: 0.05em; text-transform: uppercase; margin-top: 2px; }
 
 /* SECTION COMMON */
-section { padding: 6rem 3rem; }
-.section-header { margin-bottom: 3rem; }
+section { padding: 4rem 3rem; }
+.section-header { margin-bottom: 2rem; }
 .section-number {
   font-size: 0.7rem; font-weight: 500; color: var(--muted); letter-spacing: 0.12em;
   text-transform: uppercase; margin-bottom: 0.5rem;
